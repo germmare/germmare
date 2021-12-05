@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @germmare
-u can find me here: <a href="b-nikola.de">germmare</a>
+https://b-nikola.de
 Have fun.
