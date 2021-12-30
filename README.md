@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @germmare
-https://b-nikola.de 
-Have fun.
+https://b-nikola.de &nbsp; Have fun.
